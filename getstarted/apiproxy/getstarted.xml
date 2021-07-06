@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="getstarted">
+    <Basepaths>/getstarted</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1625573998104</CreatedAt>
+    <CreatedBy>nikhi.pk@gmail.com</CreatedBy>
+    <Description>First API proxy to kickstart the journey</Description>
+    <DisplayName>getstarted</DisplayName>
+    <LastModifiedAt>1625573998104</LastModifiedAt>
+    <LastModifiedBy>nikhi.pk@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:23f65d5b596b278faee4da4f095275003ac08148ecea2d6a50b767e4a5d8714d94ea6f4fa7270b6eeab88405fdd503fbd38b23b65ae03e2192ee10a95770b1d1:eu-west-1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
