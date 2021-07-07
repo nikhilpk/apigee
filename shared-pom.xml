@@ -79,7 +79,7 @@
             <id>test</id>
             <properties>
                 <apigee.profile>test</apigee.profile>
-                <apigee.hosturl>http://nikhipk-56358-eval-test.apigee.net</apigee.hosturl>
+                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>nikhipk-56358-eval</apigee.org>
                 <apigee.env>test</apigee.env>
@@ -91,7 +91,7 @@
             <id>prod</id>
                <properties>
                 <apigee.profile>prod</apigee.profile>
-                <apigee.hosturl>http://nikhipk-56358-eval-prod.apigee.net</apigee.hosturl>
+                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>nikhipk-56358-eval</apigee.org>
                 <apigee.env>prod</apigee.env>
