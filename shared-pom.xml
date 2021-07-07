@@ -92,7 +92,7 @@
                <properties>
                 <apigee.profile>prod</apigee.profile>
                 <apigee.hosturl>http://nikhipk-56358-eval-prod.apigee.net</apigee.hosturl>
-                <apigee.apiversion></apigee.apiversion>
+                <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>nikhipk-56358-eval</apigee.org>
                 <apigee.env>prod</apigee.env>
                 <apigee.username>nikhi.pk@gmail.com</apigee.username>
