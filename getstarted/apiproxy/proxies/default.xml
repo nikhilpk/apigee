@@ -10,7 +10,7 @@
     <Response/>
   </PostFlow>
   <HTTPProxyConnection>
-    <BasePath>/v1/getstarted</BasePath>
+    <BasePath>/getstarted</BasePath>
     <VirtualHost>secure</VirtualHost>
     <VirtualHost>default</VirtualHost>
   </HTTPProxyConnection>
