@@ -89,7 +89,7 @@
         </profile>
         <profile>
             <id>prod</id>
-               <properties>
+            <properties>
                 <apigee.profile>prod</apigee.profile>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
