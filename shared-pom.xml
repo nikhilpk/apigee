@@ -41,7 +41,7 @@
                             <overwrite>false</overwrite>
                             <encoding>UTF-8</encoding>
                              <echo message="basedir parent : ${basedir}"/>
-                            <outputDirectory>${basedir}/getstarted/apiproxy</outputDirectory>
+                            <outputDirectory>${basedir}/getstarted/</outputDirectory>
                             <resources>
                                 <resource>
                                     <directory>apiproxy</directory>
