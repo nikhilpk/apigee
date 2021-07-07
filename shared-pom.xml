@@ -38,7 +38,7 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <overwrite>true</overwrite>
+                            <overwrite>false</overwrite>
                             <encoding>UTF-8</encoding>
                              <echo message="basedir parent : ${basedir}"/>
                             <outputDirectory>${basedir}/getstarted/apiproxy</outputDirectory>
@@ -54,7 +54,7 @@
             <plugin>
                 <groupId>io.apigee.build-tools.enterprise4g</groupId>
                 <artifactId>apigee-edge-maven-plugin</artifactId>
-                <version>1.1.7</version>
+                <version>1.0.0</version>
                 <executions>
                     <execution>
                         <id>configure-bundle</id>
