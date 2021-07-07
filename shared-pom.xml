@@ -38,10 +38,10 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <overwrite>false</overwrite>
+                            <overwrite>true</overwrite>
                             <encoding>UTF-8</encoding>
                              <echo message="basedir parent : ${basedir}"/>
-                            <outputDirectory>${basedir}/getstarted/</outputDirectory>
+                            <outputDirectory>${copydir}/proxyspace/getstarted/</outputDirectory>
                             <resources>
                                 <resource>
                                     <directory>apiproxy</directory>
