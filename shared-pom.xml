@@ -79,12 +79,12 @@
             <id>test</id>
             <properties>
                 <apigee.profile>test</apigee.profile>
-                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
-                <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>nikhipk-56358-eval</apigee.org>
-                <apigee.env>test</apigee.env>
-                <apigee.username>nikhi.pk@gmail.com</apigee.username>
-                <apigee.password>Juniper123$</apigee.password>
+                <apigee.hosturl>${hosturl}</apigee.hosturl>
+                <apigee.apiversion>${apiversion}</apigee.apiversion>
+                <apigee.org>${org}</apigee.org>
+                <apigee.env>${env}</apigee.env>
+                <apigee.username>${username}</apigee.username>
+                <apigee.password>${password}</apigee.password>
             </properties>
         </profile>
         <profile>
