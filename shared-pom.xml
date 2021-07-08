@@ -79,7 +79,7 @@
             <id>test</id>
             <properties>
                 <apigee.profile>test</apigee.profile>
-                <apigee.hosturl>${hosturl}</apigee.hosturl>
+                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>${org}</apigee.org>
                 <apigee.env>${env}</apigee.env>
@@ -91,7 +91,7 @@
             <id>prod</id>
             <properties>
                 <apigee.profile>prod</apigee.profile>
-                <apigee.hosturl>${hosturl}</apigee.hosturl>
+                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>${org}</apigee.org>
                 <apigee.env>${env}</apigee.env>
