@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RaiseFault async="false" continueOnError="false" enabled="true" name="Raise-Fault-1">
+    <DisplayName>Raise Fault-1</DisplayName>
+    <FaultResponse>
+        <Set>
+            <Payload contentType="application/json">
+                <error>
+                    <code>EQ-5013</code>
+                    <message>We are upgrading the system</message>
+                </error>
+            </Payload>
+            <StatusCode>503</StatusCode>
+            <ReasonPhrase>service unavailable </ReasonPhrase>
+        </Set>
+    </FaultResponse>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+</RaiseFault>

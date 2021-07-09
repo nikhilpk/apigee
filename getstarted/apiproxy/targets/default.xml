@@ -10,6 +10,9 @@
     <Response/>
   </PostFlow>
   <HTTPTargetConnection>
-    <URL>https://mocktarget.apigee.net</URL>
+    <LoadBalancer>
+        <Server name="mock1"/>
+    </LoadBalancer>
+	<Path>{my-custom-path-variable}</Path> 
   </HTTPTargetConnection>
 </TargetEndpoint>

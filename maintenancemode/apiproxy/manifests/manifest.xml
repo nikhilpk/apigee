@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:785fe86ff8dd0f29c94db29205ea3a9c79082f438414d15406636211c970723333fa19a1a2d62ca5a963a02c700180fc7d0b902691fd7ccf3698be8f96d80e98"/>
+        <VersionInfo resourceName="Raise-Fault-1" version="SHA-512:a033a037b77c15f11f0d87d23bb11b0904c20c271c1d835908b5fd05f2b6846cfe389c6a9957cf0df69a2abdde95a49623ffc6cf40821b64110fe984a73fe086"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:fad9c8c9132827fc03b47ea5cd8ec6844ae87829a017197ed821ef6408cc138d8d206f7d5f56e877e074199b2c0dc4d53d47a9c9017aa3545db2cdde0308a3a1"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

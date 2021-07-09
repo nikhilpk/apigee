@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="maintenance_test">
+    <Basepaths>/v1/maintenance/test</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1625819742406</CreatedAt>
+    <CreatedBy>nikhi.pk@gmail.com</CreatedBy>
+    <Description>to check the maintenance mode using KVM</Description>
+    <DisplayName>maintenance_test</DisplayName>
+    <LastModifiedAt>1625819742406</LastModifiedAt>
+    <LastModifiedBy>nikhi.pk@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:958bc4c7de48a753ff4326a0a97b620345bb870e28e3448e1d5423421cc29bdc4c0ebdb07f4707a8411b811a985e551197e459ca6e33a78ae7bdc35d4d03a8c1:eu-west-1</ManifestVersion>
+    <Policies>
+        <Policy>Key-Value-Map-Operations-1</Policy>
+        <Policy>Raise-Fault-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
